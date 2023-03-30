@@ -1,0 +1,22 @@
+# Xperience-changelog 
+Source:- 
+
+- system: Merge tag 'LA.QSSI.13.0.r1-09400.01-qssi.0'
+
+- system: New dashboard UI
+
+- System: Changed wallpaper
+
+- System: Added hotspot setting to allow VPN upstreams 
+
+- System: allow to hide arrows in networktrafficmetter
+
+- System: Updated translations
+
+- PropImitatinHooks: Spoof gboard and turbo as pixel 7pro 
+
+- System: Added New VPN Icon and allow to remove it via tuner
+
+- IconPackAcherusSystemUIOverlas and sysui: add volte ICONS and vowifi
+
+- System: Updated some google apps to feb slp
