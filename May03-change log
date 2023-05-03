@@ -1,0 +1,28 @@
+SOURCE:
+- System: Merge LA.QSSI.13.0.r1-09800-qssi.0
+
+- System: Merge Android QPR2
+
+- System: dropped edge light
+
+- System: dropped firewall status bar indicator (breakfs the UI)
+
+- System: Revert to jemalloc
+
+- System: dropped hotspot toggle in QS internet dialog
+
+- System: Transparent QS customization
+
+- System: Blur the power menu
+
+- System: Updated google apps to april
+
+- System: Forward-port notification counters
+
+- System: removed option to disable volte (crash the systemUI i will re-do later)
+
+- System: Update translations
+
+DEVICE:
+• Build hwcomposer from source
+• Update sdm, soter blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
